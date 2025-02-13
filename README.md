@@ -12,4 +12,3 @@ I *suggest* setting it to be run with cron so there is less manual work invovled
 # Usage
 Either copy/paste or clone the repo and copy the .sh file and put it wherever. You can then run it such as: 
 ```./home/user/scripts/noblank.sh```
-The script will generate no output (at least not at this time 😉)
